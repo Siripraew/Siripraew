@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Siripraew
-- 👀 I’m interested in small web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : khakhunphaerw@gmail.com (reach only)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+she/her
 
 <!---
 Siripraew/Siripraew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
